@@ -1,9 +1,9 @@
 {
   "name": "ForMyLove",
   "version": "0.1.0",
-  "description": "宝贝情人节快乐",
+  "description": "快乐",
   "main": "gulpfile.js",
-  "author": "WangJohn",
+  "author": "cwh",
   "license": "MIT",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
